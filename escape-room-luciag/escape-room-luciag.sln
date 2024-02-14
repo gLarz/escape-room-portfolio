@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "escape-room-luciag", "escape-room-luciag.csproj", "{DC524617-44C0-4E2A-AF9B-E9D7E8A13162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC524617-44C0-4E2A-AF9B-E9D7E8A13162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC524617-44C0-4E2A-AF9B-E9D7E8A13162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC524617-44C0-4E2A-AF9B-E9D7E8A13162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC524617-44C0-4E2A-AF9B-E9D7E8A13162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BDE0249-8E56-4CC9-8B68-BBD0B5CDF7ED}
+	EndGlobalSection
+EndGlobal
